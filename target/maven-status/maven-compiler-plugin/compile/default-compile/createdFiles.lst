@@ -1,0 +1,5 @@
+com\mindfire\config\WebConfig.class
+com\mindfire\config\SpringMvcInitializer.class
+com\mindfire\model\UploadForm.class
+com\mindfire\exception\GlobalExceptionHandler.class
+com\mindfire\controller\UploadController.class
